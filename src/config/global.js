@@ -156,10 +156,25 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Diseño de estrategias e commerce',
+      referencia:
+        'Cyberclick • Marketing Digital. (2024, 16 de abril). <em>Qué es un ecommerce y cómo funciona guía 2026</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=c6Grr8r5j5g',
+    },
+    {
+      tema: 'Plan estratégico en marketing digital',
+      referencia:
+        'Marketing Digital Pro. (2024, 3 de enero). <em>El plan de marketing en el comercio electrónico</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=sAvopikTTWE',
+    },
+    {
+      tema: 'Plan de acción',
+      referencia:
+        'Garcia Sabater, J. J. (2013, 29 de mayo). <em>Indicadores KPI (Key Performance Indicators)</em> [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=EoGf5vgy1EM',
     },
   ],
   glosario: [
