@@ -8,7 +8,7 @@
       h1 Categorías de negocios electrónicos
  
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-8.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema1/img_1.png', class="img-fluid") 
       .col-12.col-lg-9(data-aos="zoom-in-right")
@@ -29,7 +29,7 @@
               h5.mb-3 Business to business (B2B)
               p.mb-3 La compañía proveedora ofrece productos o servicios que facilitan la operación de otra empresa. Esto exige sistemas de gestión integrados, tecnología eficiente y atención personalizada, dado que la relación comercial se centra en la confianza y la continuidad de negocios.
               p.mb-0 #[b Ejemplo:] Alibaba conecta fabricantes y distribuidores globales, ofreciendo compras por volumen, logística optimizada y herramientas de análisis de mercado que apoyan decisiones estratégicas.
-            .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_4.png', class="img-fluid")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
@@ -37,7 +37,7 @@
               h5.mb-3 Business to consumer (B2C)
               p.mb-3 Se basa en que las empresas venden directamente a los consumidores finales. El enfoque principal es la experiencia de compra, la facilidad de navegación y la satisfacción del cliente, promoviendo la fidelización a través de plataformas digitales confiables.
               p.mb-0 #[b Ejemplo:] Amazon, combina recomendaciones personalizadas, envío rápido y una interfaz intuitiva para mantener la lealtad de los usuarios
-            .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_5.png', class="img-fluid")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
@@ -45,7 +45,7 @@
               h5.mb-3 Consumer to consumer (C2C)
               p.mb-3 Permite a los consumidores intercambiar productos o servicios entre sí mediante plataformas que aseguran pagos seguros y reputación confiable. Este tipo de negocio requiere mecanismos que garanticen la seguridad de la transacción y la resolución de conflictos.
               p.mb-0 #[b Ejemplo:] Mercado Libre facilita que los usuarios compren y vendan productos, implementando sistemas de calificación de vendedores y políticas de protección al comprador.
-            .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_6.png', class="img-fluid")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
@@ -53,7 +53,7 @@
               h5.mb-3 Consumer to business (C2B)
               p.mb-3 Demuestra como los consumidores generan valor para la empresa mediante servicios, contenido o productos digitales. Este modelo permite a las empresas externalizar creatividad o conocimientos especializados, aprovechando el talento del consumidor.
               p.mb-0 #[b Ejemplo:] Shutterstock, permite que diseñadores y fotógrafos vendan imágenes y recursos digitales a empresas, ayudando a estas últimas a obtener material creativo sin generar internamente el contenido.
-            .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_7.png', class="img-fluid")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
@@ -61,7 +61,7 @@
               h5.mb-3 Business to government (B2G)
               p.mb-3 Consiste en que empresas privadas vendan productos o servicios al sector público, cumpliendo regulaciones, licitaciones y estándares de calidad. La transparencia y la trazabilidad son esenciales para mantener contratos y relaciones con entidades gubernamentales.
               p.mb-0 #[b Ejemplo:] SAP suministra software ERP y soluciones de gestión a gobiernos y organismos públicos, optimizando procesos administrativos y asegurando cumplimiento normativo.
-            .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+            .col-12.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_8.png', class="img-fluid")
 

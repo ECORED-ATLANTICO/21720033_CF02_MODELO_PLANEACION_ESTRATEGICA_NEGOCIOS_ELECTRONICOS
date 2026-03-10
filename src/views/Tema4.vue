@@ -35,12 +35,12 @@
                   p.cita-decorada__texto.mb-2.p-3 Wix tiene como misión digital: empoderar a las personas y empresas para crear su presencia digital de manera sencilla y efectiva. Como visión digital busca: ser la plataforma líder que permita a cualquier usuario construir un negocio digital completo sin necesidad de conocimientos técnicos avanzados.
           p.mb-3(data-aos="zoom-in-right") Contar con misión y visión claras en marketing digital permite alinear todos los esfuerzos, garantizando coherencia estratégica y una identidad digital sólida que fortalezca la relación con los clientes.
           p.mb-0(data-aos="zoom-in-right") Los objetivos en marketing digital deben ser SMART, asegurando que sean:
-        .col-md-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_6.png', class="img-fluid") 
      
       .row.justify-content-center.align-items-center.mb-5
-        .col-md-8.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
+        .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/tema4/img_7.png', class="img-fluid")
         .col-12.col-lg-8
@@ -66,7 +66,7 @@
                 .tarjeta--05
                 h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3.m-3.mt-0 Temporales
                 .tarjeta--slider__content.text-center Con un plazo definido para su cumplimiento.
-             
+
     .titulo-sexto.color-primario(data-aos="zoom-in-right")
       h5 Tabla 2.
       |  Ejemplos de objetivos SMART en marketing digital   
@@ -129,8 +129,6 @@
                 :audio="require('@/assets/curso/tema4/img_13.svg')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-
-
 </template>
 
 <script>

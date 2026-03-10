@@ -170,8 +170,13 @@ figcaption
   background-color: $color-acento-contenido-cv
 
 .bg-table-01
-  background-color: $color-adicional-2
-  color: $color-sistema-texto
+  background-color: $color-acento-botones
+.bg-table-02
+  background-color: $color-secundario
+.bg-table-03
+  background-color: $color-terciario
+.bg-table-04
+  background-color: $color-acento-contenido
 .b 
   font-weight: bold
 
@@ -575,6 +580,42 @@ figcaption
       width: calc(100% + 96px)
       height: 100%
       background-image: url('../assets/curso/tema4/img_2.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_8
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema5/img_13.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_9
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema5/img_25.svg') !important
       background-repeat: no-repeat
       background-size: cover 
       background-position: center

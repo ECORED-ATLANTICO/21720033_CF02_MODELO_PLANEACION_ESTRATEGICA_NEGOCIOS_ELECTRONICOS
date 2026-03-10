@@ -24,7 +24,7 @@
           h4.subtitulo-destacado__texto La segmentación digital 
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_4.png', class="img-fluid") 
         .col-12.col-lg-8
@@ -72,7 +72,7 @@
                 img(src='@/assets/curso/tema1/img_9.svg', class="img-fluid")
             .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
               p.mb-0 Apple.com ofrece un diseño minimalista y ordenado, con menús intuitivos, búsqueda rápida de productos y procesos de pago simplificados. Esta experiencia reduce la frustración del usuario y aumenta la satisfacción, fomentando compras repetidas y recomendación de la plataforma.
-        .col-md-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_12.png', class="img-fluid") 
       
@@ -132,7 +132,7 @@
                   h5.fw-bold Publicidad en redes sociales
                 .tarjeta-img-texto__descripcion
                   p.mb-3 Promoción segmentada según intereses, comportamiento y perfil del usuario.
-        .col-md-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
+        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="flip-left")
           figure(data-aos="zoom-out-up")
             img(src='@/assets/curso/tema2/img_12.png', class="img-fluid")
                   
@@ -191,7 +191,7 @@
                 p Atención constante a través de múltiples canales, como chat, correo electrónico, teléfono y redes sociales.
     
       .row.justify-content-center.align-items-center.mb-5
-        .col-md-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-6.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema2/img_26.png', class="img-fluid") 
         .col-12.col-lg-9
