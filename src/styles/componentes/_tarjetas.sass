@@ -239,49 +239,31 @@
 
   &--01::before
     position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
+    content: url('../assets/curso/tema4/img_8.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)
   &--02::before
     position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
+    content: url('../assets/curso/tema4/img_9.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)
   &--03::before
     position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
+    content: url('../assets/curso/tema4/img_10.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)
   &--04::before
     position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
+    content: url('../assets/curso/tema4/img_11.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)
   &--05::before
     position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
-    top: 60px
-    left: 50%
-    transform: translateX(-50%)
-  &--06::before
-    position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
-    top: 60px
-    left: 50%
-    transform: translateX(-50%)
-  &--07::before
-    position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
-    top: 60px
-    left: 50%
-    transform: translateX(-50%)
-  &--08::before
-    position: absolute
-    content: url('../assets/curso/tema1/img_2.svg')
+    content: url('../assets/curso/tema4/img_12.svg')
     top: 60px
     left: 50%
     transform: translateX(-50%)
@@ -636,3 +618,67 @@
       flex: 1
       display: flex
       justify-content: center
+
+////tarjeta-img-texto
+.tarjeta-img-texto
+  border-radius: 12px
+  overflow: hidden
+  border: 1px solid #e0e0e0
+  display: flex
+  flex-direction: column
+  height: 100%
+  background-color: $color-primario-cv
+
+  &__imagen
+    width: 100%
+    overflow: hidden
+    figure
+      margin: 0
+      height: 180px
+      img
+        width: 100%
+        height: 100%
+        object-fit: cover
+        object-position: center
+        display: block
+
+  &__footer
+    padding: 0.85rem 1rem
+    margin: 0.85rem 1rem
+    text-align: center
+    margin-top: 4px
+    h5
+      margin-bottom: 0.1rem
+      font-size: 1rem
+    p
+      font-size: 0.9rem
+      margin: 0
+
+    &.color-primario
+      background-color: $color-primario
+      h5, p
+        color: textColor($color-primario)
+    &.color-primario-o
+      background-color: $color-primario-o
+      h5, p
+        color: $white
+    &.color-secundario
+      background-color: $color-secundario
+      h5, p
+        color: textColor($color-secundario)
+    &.color-acento-contenido
+      background-color: $color-acento-contenido
+      h5, p
+        color: textColor($color-acento-contenido)
+    &.color-acento-botones
+      background-color: $color-acento-botones
+      h5, p
+        color: textColor($color-acento-botones)
+
+  &__descripcion
+    padding: 1rem 1.5rem
+    flex: 1
+    p
+      color: $color-sistema-texto
+      font-size: 0.9rem
+      line-height: 1.5

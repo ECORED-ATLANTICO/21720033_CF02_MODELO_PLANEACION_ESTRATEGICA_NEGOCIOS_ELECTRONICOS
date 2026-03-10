@@ -96,9 +96,6 @@
 figcaption
   font-weight: normal
 
-
-
-
 // tabs-b
 .tabs-b.color-primario .tabs-b__tab--active
   background-color: $color-primario-v !important
@@ -108,7 +105,6 @@ figcaption
   background-color: $color-primario-cv
 .acordion__accion__btn--a
   background-color: $color-acento-botones
-
 
 //subtitulo-destacado
 .subtitulo-destacado
@@ -284,7 +280,7 @@ figcaption
     margin: 0
 
 .img250
-  width: 310px
+  width: 295px
   height: auto
 
 .crd
@@ -304,7 +300,7 @@ figcaption
 
 .crd--avatarHorizontal
   position: relative
-  padding-right: 12rem
+  padding-right: 18rem
 
 .crd--first
   border-radius: 0.75rem 0.75rem 0 0
@@ -320,7 +316,7 @@ figcaption
 
 @media (max-width: 1024px)
   .img250
-    width: 345px
+    width: 315px
     height: auto
 
   .crd--avatarHorizontal
@@ -365,7 +361,7 @@ figcaption
     padding-left: 0.75rem
 
 
-  // --- CITA DECORADA --- //
+// --- CITA DECORADA --- //
 .cita-decorada
   
   .cita-decorada__caja
@@ -374,6 +370,10 @@ figcaption
 
     &--fondo-1
       background-image: url('../assets/curso/introduccion/img_2.png')
+    &--fondo-2
+      background-image: url('../assets/curso/tema1/img_12.png')
+    &--fondo-3
+      background-image: url('../assets/curso/tema2/img_5.png')
 
 
     [class*="cita-decorada__imagen-flotante"]
@@ -389,7 +389,51 @@ figcaption
       @media (max-width: 1025px)
         transform: translateY(-40px) translateX(5px)
         max-width: 90px
-
+    .cita-decorada__imagen-flotante-2
+      position: absolute
+      transform: translateY(-67px) translateX(32px)
+      z-index: 3
+      max-width: 125px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-66px) translateX(12px)
+        max-width: 115px
+    .cita-decorada__imagen-flotante-3
+      position: absolute
+      transform: translateY(-75px) translateX(-5px)
+      z-index: 3
+      max-width: 150px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-63px) translateX(-15px)
+        max-width: 140px
+    .cita-decorada__imagen-flotante-4
+      position: absolute
+      transform: translateY(-58px) translateX(5px)
+      z-index: 3
+      max-width: 150px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-37px) translateX(8px)
+        max-width: 140px
+    .cita-decorada__imagen-flotante-5
+      position: absolute
+      transform: translateY(-65px) translateX(0px)
+      z-index: 3
+      max-width: 125px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-55px) translateX(-12px)
+        max-width: 100px
+    .cita-decorada__imagen-flotante-6
+      position: absolute
+      transform: translateY(-63px) translateX(15px)
+      z-index: 3
+      max-width: 140px
+      margin: 0 auto
+      @media (max-width: 1025px)
+        transform: translateY(-57px) translateX(0px)
+        max-width: 120px
 
 // Fondos 
 .bg_img
@@ -411,14 +455,128 @@ figcaption
       background-position: center
       overflow: hidden 
       pointer-events: none
-    .slyder-a__tipo-b .slyder-a__btn--sigt
+    .linea-tiempo-c__header__btn, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
       background-color: $color-acento-botones
-    .slyder-a__tipo-b .slyder-a__btn--atrs
-      background-color: $color-acento-botones
-    .slyder-a__bullets__item--active
-      background-color: $color-acento-contenido-v !important
+    .pasos-b__header__item__dot
+      border-color: $color-acento-botones 
+    .pasos-b__header__item__dot i
+      color: $color-sistema-texto
+      border-color: $color-acento-contenido-v
+    .pasos-b__header__item--before .pasos-b__header__item__dot
+      color: $color-sistema-texto 
       border-color: $color-acento-contenido-v !important
-      opacity: 1
-    .slyder-a__bullets__item
-      background-color: lighten($color-acento-contenido-v, 15%)
-      border: 1px solid lighten($color-acento-contenido-v, 15%)
+      background-color: $color-acento-contenido-v
+    .pasos-b__header__item:first-child .pasos-b__header__item__line-container:before
+      background-color: transparent
+    .pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+      background-color: $color-acento-contenido-v
+    .pasos-b__header__item--active .pasos-b__header__item__line-container:before
+      background-color: $color-acento-contenido-v
+  &_2
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 140px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema1/img_10.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_3
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_2.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_4
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_8.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_5
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_14.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_6
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema2/img_21.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
+  &_7
+    position: relative
+    h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
+      position: relative
+    &::before
+      content: ''
+      position: absolute
+      margin: 0
+      top: 0px
+      left: -48px
+      width: calc(100% + 96px)
+      height: 100%
+      background-image: url('../assets/curso/tema4/img_2.svg') !important
+      background-repeat: no-repeat
+      background-size: cover 
+      background-position: center
+      overflow: hidden 
+      pointer-events: none
