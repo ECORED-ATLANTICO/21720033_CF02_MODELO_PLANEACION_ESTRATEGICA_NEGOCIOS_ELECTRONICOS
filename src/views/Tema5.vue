@@ -11,7 +11,7 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/tema5/img_1.png')
       .bloque-texto-t__texto.col-9.mb-0.p-4
-        p.mb-0 El plan de acción en marketing digital traduce la estrategia definida en actividades concretas y medibles, estableciendo responsables, recursos, tiempos, indicadores y herramientas. Su correcta implementación asegura que cada acción contribuya al logro de los objetivos estratégicos, optimizando la inversión digital y permitiendo ajustes oportunos según los resultados obtenidos.
+        p.mb-0 El plan de acción en <em>marketing</em> digital traduce la estrategia definida en actividades concretas y medibles, estableciendo responsables, recursos, tiempos, indicadores y herramientas. Su correcta implementación asegura que cada acción contribuya al logro de los objetivos estratégicos, optimizando la inversión digital y permitiendo ajustes oportunos según los resultados obtenidos.
 
     .tarjeta.color-secundario-cv.p-3.rounded-3.mb-3(data-aos="zoom-in-right")
       p.mb-0 Este plan integra los elementos fundamentales: presupuesto, cronograma, indicadores, herramientas, control, seguimiento y evaluación, garantizando que las estrategias digitales se ejecuten de manera coordinada y eficiente.
@@ -40,27 +40,27 @@
       
       .titulo-sexto.color-primario(data-aos="zoom-in-right")
         h5 Tabla 3.
-        |  Presupuesto estimado para acciones de marketing digital    
+        |  Presupuesto estimado para acciones de <em>marketing</em> digital    
       .tabla-a.mb-5(data-aos="flip-left")
         table
           caption 
-            p Nota. Sena, (2026).
+            p <b>Nota.</b> Sena, (2026).
           thead
             tr
               th.col-auto.col-lg-7 Área de competencia 
               th.col-auto.col-lg-auto Gasto estimado
           tbody
             tr
-              td.text-start Marketing digital (campañas pagadas, publicidad y social ads).
+              td.text-start <em>Marketing</em> digital (campañas pagadas, publicidad y social ads).
               td.text-start $ 50.000.000
             tr
-              td.text-start Desarrollo y optimización web/app.
+              td.text-start Desarrollo y optimización <em>web/app</em>.
               td.text-start $ 20.000.000
             tr
               td.text-start Logística digital (entregas, envíos y gestión de pedidos).
               td.text-start $ 30.000.000
             tr
-              td.text-start Atención al cliente digital (soporte, chatbots y CRM).
+              td.text-start Atención al cliente digital (soporte, <em>chatbots</em> y CRM).
               td.text-start $ 15.000.000
       
     .cita-decorada.mb-3
@@ -98,7 +98,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Sena, (2026).
+          p <b>Nota.</b> Sena, (2026).
         thead
           tr
             th.col-auto.col-lg-3 Actividad
@@ -120,8 +120,8 @@
             td.bg-table-01
             td.bg-table-01
           tr
-            td.text-start Email marketing.
-            td.text-start Coordinador de marketing.
+            td.text-start Email <em>marketing</em>.
+            td.text-start Coordinador de <em>marketing</em>.
             td
             td.bg-table-02
             td
@@ -129,7 +129,7 @@
             td
             td.bg-table-02
           tr
-            td.text-start Mejora UX del sitio. web
+            td.text-start Mejora UX del sitio <em>web</em>.
             td.text-start Diseñador UX/UI.
             td.bg-table-03
             td.bg-table-03
@@ -152,7 +152,7 @@
         figure
           img(src='@/assets/curso/tema5/img_9.svg', class="img-fluid p-3")
       .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-        p.mb-0 Contar con un cronograma detallado brinda al equipo de marketing digital una guía clara sobre la secuencia y los tiempos de ejecución de cada actividad, facilitando la coordinación de recursos y responsabilidades. Esto asegura que las estrategias se implementen de manera oportuna y eficiente, minimizando retrasos, redundancias y conflictos entre tareas, al tiempo que permite anticipar posibles cuellos de botella y optimizar el rendimiento del plan de acción digital.
+        p.mb-0 Contar con un cronograma detallado brinda al equipo de <em>marketing</em> digital una guía clara sobre la secuencia y los tiempos de ejecución de cada actividad, facilitando la coordinación de recursos y responsabilidades. Esto asegura que las estrategias se implementen de manera oportuna y eficiente, minimizando retrasos, redundancias y conflictos entre tareas, al tiempo que permite anticipar posibles cuellos de botella y optimizar el rendimiento del plan de acción digital.
 
     Separador
   
@@ -182,15 +182,15 @@
           figure
             img(src='@/assets/curso/tema5/img_12.svg', class="img-fluid")
 
-    p.mb-5(data-aos="zoom-in-right") La siguiente tabla presenta los principales tipos de KPI utilizados en marketing digital, su propósito, ejemplos de medición y el beneficio que aportan a la toma de decisiones estratégicas.
+    p.mb-5(data-aos="zoom-in-right") La siguiente tabla presenta los principales tipos de KPI utilizados en <em>marketing</em> digital, su propósito, ejemplos de medición y el beneficio que aportan a la toma de decisiones estratégicas.
 
     .titulo-sexto.color-primario(data-aos="zoom-in-right")
       h5 Tabla 5.
-      |  Tipos de KPI en marketing digital   
+      |  Tipos de KPI en <em>marketing</em> digital   
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptada de Kotler y Keller (2021), David (2020), Laudon y Laudon (2020) y ProColombia (2023).
+          p <b>Nota.</b> Adaptada de Kotler y Keller (2021), David (2020), Laudon y Laudon (2020) y ProColombia (2023).
         thead
           tr
             th.col-auto.col-lg-2 Tipo de KPI
@@ -209,12 +209,12 @@
             td.text-start Porcentaje de clientes recurrentes, tasa de abandono.
             td.text-start Ayuda a identificar oportunidades para reforzar la lealtad.
           tr
-            td.text-start Engagement
+            td.text-start <em>Engagement</em>
             td.text-start Medir el nivel de interacción y compromiso con la marca.
             td.text-start Comentarios, compartidos, tiempo promedio en página.
             td.text-start Indica relevancia del contenido y conexión con la audiencia.
           tr
-            td.text-start Tráfico web.
+            td.text-start Tráfico <em>web</em>.
             td.text-start Analizar la cantidad y calidad de visitantes.
             td.text-start Visitantes únicos, fuentes de tráfico, páginas más visitadas.
             td.text-start Evalúa el alcance y la eficacia de estrategias digitales.
@@ -230,7 +230,7 @@
             td.text-start Mejora la navegación, la conversión y la satisfacción del cliente.
 
     .tarjeta.color-primario-v.p-3.rounded-3.mb-3(data-aos="zoom-in-right")
-      p.mb-0 La implementación de KPI adecuados no solo permite medir resultados, sino que también proporciona una visión clara del desempeño global del marketing digital, facilitando la toma de decisiones estratégicas basadas en evidencia y promoviendo la eficiencia en la gestión de recursos.
+      p.mb-0 La implementación de KPI adecuados no solo permite medir resultados, sino que también proporciona una visión clara del desempeño global del <em>marketing</em> digital, facilitando la toma de decisiones estratégicas basadas en evidencia y promoviendo la eficiencia en la gestión de recursos.
 
     Separador
   
@@ -242,7 +242,7 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1
-          p.mb-3(data-aos="zoom-in-right") Las herramientas digitales en marketing son recursos esenciales que permiten a las empresas implementar, supervisar y evaluar sus estrategias de marketing online de manera eficiente. Estas plataformas facilitan la automatización de procesos, la recopilación y análisis de datos, y la toma de decisiones basadas en información objetiva. Al integrar herramientas adecuadas en la estrategia digital, las organizaciones pueden mejorar la efectividad de sus campañas, optimizar recursos, identificar oportunidades de mejora y generar reportes precisos que apoyen la gestión estratégica del marketing.
+          p.mb-3(data-aos="zoom-in-right") Las herramientas digitales en <em>marketing</em> son recursos esenciales que permiten a las empresas implementar, supervisar y evaluar sus estrategias de <em>marketing</em> online de manera eficiente. Estas plataformas facilitan la automatización de procesos, la recopilación y análisis de datos, y la toma de decisiones basadas en información objetiva. Al integrar herramientas adecuadas en la estrategia digital, las organizaciones pueden mejorar la efectividad de sus campañas, optimizar recursos, identificar oportunidades de mejora y generar reportes precisos que apoyen la gestión estratégica del <em>marketing</em>.
           .tarjeta.color-secundario-cv.p-3.rounded-3.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
@@ -254,7 +254,7 @@
           figure
             img(src='@/assets/curso/tema5/img_15.png', class="img-fluid") 
 
-      p.mb-3(data-aos="zoom-in-right") A continuación se muestran las diferentes  herramientas digitales claves utilizadas en marketing digital, destacando su función principal y su aporte a la gestión, análisis y optimización de las estrategias digitales.
+      p.mb-3(data-aos="zoom-in-right") A continuación se muestran las diferentes  herramientas digitales claves utilizadas en <em>marketing</em> digital, destacando su función principal y su aporte a la gestión, análisis y optimización de las estrategias digitales.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-md-8.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
@@ -269,14 +269,14 @@
                     img(src='@/assets/curso/tema5/img_17.svg', class="img-fluid" style="max-height: 75px; object-fit: contain;")
                 .p-4
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Google Analytics
-                  p.mb-0 Monitoreo de tráfico web, comportamiento de usuarios y conversiones.
+                  p.mb-0 Monitoreo de tráfico <em>web</em>, comportamiento de usuarios y conversiones.
               .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
                 .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
                   figure.mb-0
                     img(src='@/assets/curso/tema5/img_18.svg', class="img-fluid" style="max-height: 100px; object-fit: contain;")
                 .p-4
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 HubSpot
-                  p.mb-0 Gestión de relaciones con clientes (CRM) y automatización de campañas de marketing.
+                  p.mb-0 Gestión de relaciones con clientes (CRM) y automatización de campañas de <em>marketing</em>.
               .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
                 .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--color-adicional-3.mb-3
                   figure.mb-3
@@ -297,14 +297,14 @@
                     img(src='@/assets/curso/tema5/img_21.svg', class="img-fluid mb-3 mt-3" style="max-height: 100px; object-fit: contain;")
                 .p-4
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Hootsuite
-                  p.mb-0 Gestión y programación de publicaciones en redes sociales, análisis de engagement.
+                  p.mb-0 Gestión y programación de publicaciones en redes sociales, análisis de <em>engagement</em>.
               .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
                 .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
                   figure.mb-0
                     img(src='@/assets/curso/tema5/img_22.svg', class="img-fluid mt-2" style="max-height: 100px; object-fit: contain;")
                 .p-4
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Mailchimp
-                  p.mb-0 Automatización de email marketing, segmentación de audiencias y análisis de campañas.
+                  p.mb-0 Automatización de email <em>marketing</em>, segmentación de audiencias y análisis de campañas.
 
     .cita-decorada.mb-3
       blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4
@@ -313,7 +313,7 @@
             figure
               img(src='@/assets/curso/tema5/img_23.png', class="cita-decorada__imagen-flotante-6")
           .col-12.col-lg-10
-            p.cita-decorada__texto.mb-2.p-3 La correcta selección e implementación de herramientas digitales no solo facilita la ejecución de estrategias, sino que también permite automatizar tareas repetitivas, centralizar la información y generar insights valiosos para optimizar decisiones. Al contar con un conjunto de herramientas integradas, las empresas pueden medir el rendimiento en tiempo real, ajustar campañas rápidamente y maximizar el retorno de inversión en marketing digital, fortaleciendo la competitividad y la capacidad de respuesta en entornos digitales, pues son altamente cambiantes.
+            p.cita-decorada__texto.mb-2.p-3 La correcta selección e implementación de herramientas digitales no solo facilita la ejecución de estrategias, sino que también permite automatizar tareas repetitivas, centralizar la información y generar insights valiosos para optimizar decisiones. Al contar con un conjunto de herramientas integradas, las empresas pueden medir el rendimiento en tiempo real, ajustar campañas rápidamente y maximizar el retorno de inversión en <em>marketing</em> digital, fortaleciendo la competitividad y la capacidad de respuesta en entornos digitales, pues son altamente cambiantes.
 
     Separador
   
@@ -325,14 +325,14 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-9.order-2.order-lg-1
-          p.mb-3(data-aos="zoom-in-right") El control en el plan de acción de marketing digital permite verificar que las actividades se ejecuten conforme a lo planificado, asegurando el uso adecuado de los recursos y la alineación con los objetivos estratégicos definidos por la organización.
+          p.mb-3(data-aos="zoom-in-right") El control en el plan de acción de <em>marketing</em> digital permite verificar que las actividades se ejecuten conforme a lo planificado, asegurando el uso adecuado de los recursos y la alineación con los objetivos estratégicos definidos por la organización.
           .tarjeta.color-secundario-cv.p-3.rounded-3.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema5/img_26.svg', class="img-fluid")
               .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-                p.mb-0 A continuación, describe los principales elementos de control aplicados en el marketing digital, especificando su finalidad, frecuencia de aplicación y responsables, con el fin de asegurar el cumplimiento de los objetivos y la correcta ejecución de las estrategias digitales.
+                p.mb-0 A continuación, describe los principales elementos de control aplicados en el <em>marketing</em> digital, especificando su finalidad, frecuencia de aplicación y responsables, con el fin de asegurar el cumplimiento de los objetivos y la correcta ejecución de las estrategias digitales.
         .col-10.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_27.png', class="img-fluid") 
@@ -347,7 +347,7 @@
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Revisión del uso eficiente de los recursos financieros asignados a las acciones digitales.
                 p.mb-0 #[b Frecuencia:] mensual.
-                p.mb-0 #[b Responsable:] coordinador de marketing digital.
+                p.mb-0 #[b Responsable:] coordinador de <em>marketing</em> digital.
               .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema5/img_29.svg', class="img-fluid")
@@ -355,7 +355,7 @@
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Análisis del desempeño de campañas frente a los objetivos establecidos
                 p.mb-0 #[b Frecuencia:] quincenal.
-                p.mb-0 #[b Responsable:] analista de marketing digital.
+                p.mb-0 #[b Responsable:] analista de <em>marketing</em> digital.
               .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema5/img_30.svg', class="img-fluid")
@@ -393,11 +393,11 @@
 
     .titulo-sexto.color-primario(data-aos="zoom-in-right")
       h5 Tabla 6.
-      |  Seguimiento de acciones del marketing digital  
+      |  Seguimiento de acciones del <em>marketing</em> digital  
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptada de Laudon y Laudon (2020) y ProColombia (2023).
+          p <b>Nota.</b> Adaptada de Laudon y Laudon (2020) y ProColombia (2023).
         thead
           tr
             th.col-auto.col-lg-2 Acción estratégica
@@ -411,7 +411,7 @@
             td.text-start Google Analytics.
             td.text-start Mensual
           tr
-            td.text-start Email marketing.
+            td.text-start Email <em>marketing</em>.
             td.text-start Tasa de apertura y clics.
             td.text-start HubSpot.
             td.text-start Quincena.
@@ -446,7 +446,7 @@
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptada de Kotler y Keller (2021) y David (2020).
+          p <b>Nota.</b> Adaptada de Kotler y Keller (2021) y David (2020).
         thead
           tr
             th.col-auto.col-lg-auto Criterio de evaluación
@@ -485,7 +485,7 @@
             .col-12.col-md-12.col-lg-7.col-xl-7.mb-lg-0
               h2.mb-2 Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="<h5 class='mb-0'>Charlas que venden</h5> Plan estratégico de marketing digital"
+                texto="<h5 class='mb-0'>Charlas que venden</h5> Plan estratégico de <em>marketing</em> digital"
                 :audio="require('@/assets/curso/tema4/img_13.svg')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
@@ -500,7 +500,7 @@
             .col.py-4.px-3
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
-                  p.mb-0.fw-bold.text-white Ir a los siguientes links con la temática del diseño de un plan estratégico de marketing digital aplicado a negocios electrónicos, incluyendo pasos clave y buenas prácticas y aprender a identificar y aplicar indicadores clave de desempeño (KPI) para medir y evaluar estrategias en negocios electrónicos:
+                  p.mb-0.fw-bold.text-white Ir a los siguientes links con la temática del diseño de un plan estratégico de <em>marketing</em> digital aplicado a negocios electrónicos, incluyendo pasos clave y buenas prácticas y aprender a identificar y aplicar indicadores clave de desempeño (KPI) para medir y evaluar estrategias en negocios electrónicos:
                 .col-12.col-sm-auto.pe-4
                   .d-flex.flex-column.gap-2
                     a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")

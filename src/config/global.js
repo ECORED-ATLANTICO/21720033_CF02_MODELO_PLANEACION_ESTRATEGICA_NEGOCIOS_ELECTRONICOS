@@ -61,7 +61,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Plan estratégico en marketing digital',
+        titulo: 'Plan estratégico en <em>marketing</em> digital',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -158,12 +158,12 @@ export default {
     {
       tema: 'Diseño de estrategias e commerce',
       referencia:
-        'Cyberclick • Marketing Digital. (2024, 16 de abril). <em>Qué es un ecommerce y cómo funciona guía 2026</em> [Video]. YouTube.',
+        'Cyberclick • <em>Marketing</em> Digital. (2024, 16 de abril). <em>Qué es un ecommerce y cómo funciona guía 2026</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=c6Grr8r5j5g',
     },
     {
-      tema: 'Plan estratégico en marketing digital',
+      tema: 'Plan estratégico en <em>marketing</em> digital',
       referencia:
         'Marketing Digital Pro. (2024, 3 de enero). <em>El plan de marketing en el comercio electrónico</em> [Video]. YouTube.',
       tipo: 'Video',
@@ -217,7 +217,7 @@ export default {
     {
       termino: 'Estrategia digital',
       significado:
-        'Conjunto de acciones planificadas que utilizan medios y canales digitales para alcanzar objetivos comerciales y de marketing.',
+        'Conjunto de acciones planificadas que utilizan medios y canales digitales para alcanzar objetivos comerciales y de <em>marketing</em>.',
     },
 
     {
@@ -245,7 +245,7 @@ export default {
     },
 
     {
-      termino: 'Marketing digital',
+      termino: '<em>Marketing</em> digital',
       significado:
         'Conjunto de estrategias y herramientas orientadas a la promoción de productos o servicios en entornos digitales.',
     },

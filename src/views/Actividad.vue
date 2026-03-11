@@ -29,7 +29,7 @@ export default {
         {
           id: 1,
           texto:
-            'El plan estratégico en marketing digital define la dirección general de la empresa en los entornos digitales.',
+            'El plan estratégico en <em>marketing</em> digital define la dirección general de la empresa en los entornos digitales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -61,7 +61,7 @@ export default {
         {
           id: 3,
           texto:
-            'La visión digital expresa la posición futura que la empresa espera alcanzar en el mercado online.',
+            'La visión digital expresa la posición futura que la empresa espera alcanzar en el mercado <em>online</em>.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -93,7 +93,7 @@ export default {
         {
           id: 5,
           texto:
-            'Los objetivos estratégicos en marketing digital no deben formularse de manera medible y verificable.',
+            'Los objetivos estratégicos en <em>marketing</em> digital no deben formularse de manera medible y verificable.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -125,7 +125,7 @@ export default {
         {
           id: 7,
           texto:
-            'Definir una misión digital clara ayuda a orientar las decisiones y acciones en entornos online.',
+            'Definir una misión digital clara ayuda a orientar las decisiones y acciones en entornos .',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -157,7 +157,7 @@ export default {
         {
           id: 9,
           texto:
-            'El plan estratégico en marketing digital permite optimizar el uso de recursos tecnológicos y humanos.',
+            'El plan estratégico en <em>marketing</em> digital permite optimizar el uso de recursos tecnológicos y humanos.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -173,7 +173,7 @@ export default {
         {
           id: 10,
           texto:
-            'La ausencia de objetivos claros dificulta la medición de resultados en marketing digital.',
+            'La ausencia de objetivos claros dificulta la medición de resultados en <em>marketing</em> digital.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -221,7 +221,7 @@ export default {
         {
           id: 13,
           texto:
-            'La misión digital responde a la pregunta sobre el propósito de la empresa en el entorno online.',
+            'La misión digital responde a la pregunta sobre el propósito de la empresa en el entorno <em>online</em>.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -253,7 +253,7 @@ export default {
         {
           id: 15,
           texto:
-            'Un plan estratégico digital bien estructurado contribuye a la competitividad en el mercado online.',
+            'Un plan estratégico digital bien estructurado contribuye a la competitividad en el mercado <em>online</em>.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -301,7 +301,7 @@ export default {
         {
           id: 18,
           texto:
-            'El plan estratégico en marketing digital no requiere coherencia entre las acciones ejecutadas.',
+            'El plan estratégico en <em>marketing</em> digital no requiere coherencia entre las acciones ejecutadas.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -333,7 +333,7 @@ export default {
         {
           id: 20,
           texto:
-            'El plan estratégico en marketing digital solo se elabora una vez y no requiere ajustes.',
+            'El plan estratégico en <em>marketing</em> digital solo se elabora una vez y no requiere ajustes.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

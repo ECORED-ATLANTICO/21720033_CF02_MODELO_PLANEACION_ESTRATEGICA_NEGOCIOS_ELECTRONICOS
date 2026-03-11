@@ -231,13 +231,15 @@
     position: relative
     display: flex
     flex-direction: column
-    overflow: hidden 
+    overflow: hidden
+    box-shadow: 8px 8px 20px rgba(0,0,0,0.15)
     *
       color: textColor($color-sistema-h)
     &--borde
       background-color: $white
       color: textColor(lighten($color-sistema-h, 50%))
       border: solid 4px $color-sistema-h
+      box-shadow: 8px 8px 20px rgba(0,0,0,0.15)
 
   &--01::before
     position: absolute

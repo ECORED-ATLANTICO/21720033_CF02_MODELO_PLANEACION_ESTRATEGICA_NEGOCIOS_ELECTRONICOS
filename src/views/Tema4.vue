@@ -13,7 +13,7 @@
           figure.p-0.m-0.h-100
             img(src="@/assets/curso/tema4/img_1.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-5
-          p.mb-0 El plan estratégico de marketing digital es una guía que permite a las empresas definir su rumbo, objetivos y acciones en entornos digitales, optimizando recursos y asegurando resultados medibles. Integra misión, visión, objetivos y estrategias, garantizando coherencia y competitividad en el mercado online.
+          p.mb-0 El plan estratégico de <em>marketing</em> digital es una guía que permite a las empresas definir su rumbo, objetivos y acciones en entornos digitales, optimizando recursos y asegurando resultados medibles. Integra misión, visión, objetivos y estrategias, garantizando coherencia y competitividad en el mercado <em>online</em>.
 
     .bg_img_7.mb-3
 
@@ -24,7 +24,7 @@
               figure
                 img(src='@/assets/curso/tema4/img_3.svg', class="img-fluid")
             .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-              p.mb-0 La misión digital establece el propósito de la empresa en el ámbito online y cómo genera valor para los clientes, orientando la estrategia hacia metas concretas. La visión digital señala la posición futura deseada, indicando hacia dónde se dirige la empresa y cómo quiere ser percibida por clientes y competidores, guiando las decisiones estratégicas.
+              p.mb-0 La misión digital establece el propósito de la empresa en el ámbito <em>online</em> y cómo genera valor para los clientes, orientando la estrategia hacia metas concretas. La visión digital señala la posición futura deseada, indicando hacia dónde se dirige la empresa y cómo quiere ser percibida por clientes y competidores, guiando las decisiones estratégicas.
           .cita-decorada.mb-3
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4
               .row.justify-content-center.align-items-center
@@ -33,8 +33,8 @@
                     img(src='@/assets/curso/tema4/img_4.png', class="cita-decorada__imagen-flotante-5")
                 .col-12.col-lg-10
                   p.cita-decorada__texto.mb-2.p-3 Wix tiene como misión digital: empoderar a las personas y empresas para crear su presencia digital de manera sencilla y efectiva. Como visión digital busca: ser la plataforma líder que permita a cualquier usuario construir un negocio digital completo sin necesidad de conocimientos técnicos avanzados.
-          p.mb-3(data-aos="zoom-in-right") Contar con misión y visión claras en marketing digital permite alinear todos los esfuerzos, garantizando coherencia estratégica y una identidad digital sólida que fortalezca la relación con los clientes.
-          p.mb-0(data-aos="zoom-in-right") Los objetivos en marketing digital deben ser SMART, asegurando que sean:
+          p.mb-3(data-aos="zoom-in-right") Contar con misión y visión claras en <em>marketing</em> digital permite alinear todos los esfuerzos, garantizando coherencia estratégica y una identidad digital sólida que fortalezca la relación con los clientes.
+          p.mb-0(data-aos="zoom-in-right") Los objetivos en <em>marketing</em> digital deben ser SMART, asegurando que sean:
         .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_6.png', class="img-fluid") 
@@ -69,11 +69,11 @@
 
     .titulo-sexto.color-primario(data-aos="zoom-in-right")
       h5 Tabla 2.
-      |  Ejemplos de objetivos SMART en marketing digital   
+      |  Ejemplos de objetivos <em>SMART</em> en <em>marketing</em> digital   
     .tabla-a.mb-5(data-aos="flip-left")
       table
         caption 
-          p Nota. Adaptada de Chaffey y Ellis-Chadwick (2022).
+          p <b>Nota.</b> Adaptada de Chaffey y Ellis-Chadwick (2022).
         thead
           tr
             th.col-auto.col-lg-3 Objetivo
@@ -84,8 +84,8 @@
             th.col-auto.col-lg-2 Temporal
         tbody
           tr
-            td.text-start Mejorar conversión en tienda online.
-            td.text-start Incrementar ventas B2C mediante la página web.
+            td.text-start Mejorar conversión en tienda <em>online</em>.
+            td.text-start Incrementar ventas B2C mediante la página <em>web</em>.
             td.text-start Incremento del 15 % en conversiones.
             td Sí
             td Sí
@@ -125,7 +125,7 @@
             .col-12.col-md-12.col-lg-7.col-xl-7.mb-lg-0
               h2.mb-2 Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="<h5 class='mb-0'>Charlas que venden</h5> Plan estratégico de marketing digital"
+                texto="<h5 class='mb-0'>Charlas que venden</h5> Plan estratégico de <em>marketing</em> digital"
                 :audio="require('@/assets/curso/tema4/img_13.svg')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
