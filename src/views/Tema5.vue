@@ -79,7 +79,7 @@
     .mb-0 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
+      .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-right")
         figure
           img(src='@/assets/curso/tema5/img_7.png', class="img-fluid") 
       .col-12.col-lg-8(data-aos="zoom-in-right")
@@ -333,7 +333,7 @@
                   img(src='@/assets/curso/tema5/img_26.svg', class="img-fluid")
               .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
                 p.mb-0 A continuación, describe los principales elementos de control aplicados en el <em>marketing</em> digital, especificando su finalidad, frecuencia de aplicación y responsables, con el fin de asegurar el cumplimiento de los objetivos y la correcta ejecución de las estrategias digitales.
-        .col-10.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_27.png', class="img-fluid") 
 
@@ -479,7 +479,7 @@
       .col-12.col-md-8.col-lg-7
         .tarjeta.color-primario.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-12.col-md-12.col-lg-5.col-xl-5.mb-lg-0.mb-3
+            .col-10.col-md-8.col-lg-5.col-xl-5.mb-lg-0.mb-3
               figure
                 img(src="@/assets/curso/tema5/img_35.png", class="img-fluid w-100")
             .col-12.col-md-12.col-lg-7.col-xl-7.mb-lg-0

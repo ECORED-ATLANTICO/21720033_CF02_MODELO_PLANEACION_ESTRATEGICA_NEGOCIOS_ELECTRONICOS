@@ -35,7 +35,7 @@
                   p.cita-decorada__texto.mb-2.p-3 Wix tiene como misión digital: empoderar a las personas y empresas para crear su presencia digital de manera sencilla y efectiva. Como visión digital busca: ser la plataforma líder que permita a cualquier usuario construir un negocio digital completo sin necesidad de conocimientos técnicos avanzados.
           p.mb-3(data-aos="zoom-in-right") Contar con misión y visión claras en <em>marketing</em> digital permite alinear todos los esfuerzos, garantizando coherencia estratégica y una identidad digital sólida que fortalezca la relación con los clientes.
           p.mb-0(data-aos="zoom-in-right") Los objetivos en <em>marketing</em> digital deben ser SMART, asegurando que sean:
-        .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
+        .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_6.png', class="img-fluid") 
      
@@ -119,7 +119,7 @@
       .col-12.col-md-8.col-lg-7
         .tarjeta.color-primario.p-5.rounded-4.mb-3(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0
-            .col-12.col-md-12.col-lg-5.col-xl-5.mb-lg-0.mb-3
+            .col-10.col-md-8.col-lg-5.col-xl-5.mb-lg-0.mb-3
               figure
                 img(src="@/assets/curso/tema4/img_14.png", class="img-fluid w-100")
             .col-12.col-md-12.col-lg-7.col-xl-7.mb-lg-0
