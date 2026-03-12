@@ -493,22 +493,23 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-12.col-lg-10.mb-5
         .tarjeta--bg-img.color-primario-o.rounded-3.overflow-hidden
-          .row.justify-content-around.align-items-center.mb-0
-            .col-auto.d-flex.align-items-center.ps-4.py-3
+          .row.align-items-center.mb-0
+            .col-8.col-md-4.col-lg-2.mx-auto.text-center.p-4
               figure.m-0
-                img(src="@/assets/curso/tema5/img_36.png" style="width: 80px; height: auto;")
-            .col.py-4.px-3
+                img(src="@/assets/curso/tema5/img_36.png")
+            .col-12.col-md-8.col-lg-10.p-4
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
                   p.mb-0.fw-bold.text-white Ir a los siguientes links con la temática del diseño de un plan estratégico de <em>marketing</em> digital aplicado a negocios electrónicos, incluyendo pasos clave y buenas prácticas y aprender a identificar y aplicar indicadores clave de desempeño (KPI) para medir y evaluar estrategias en negocios electrónicos:
                 .col-12.col-sm-auto.pe-4
-                  .d-flex.flex-column.gap-2
-                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")
-                      span Enlace
-                      i.fas.fa-link.ms-2
-                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")
-                      span Enlace
-                      i.fas.fa-link.ms-2
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")
+                    span Enlace
+                    i.fas.fa-link.ms-2
+                  br
+                  br
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")
+                    span Enlace
+                    i.fas.fa-link.ms-2
 </template>
 
 <script>
