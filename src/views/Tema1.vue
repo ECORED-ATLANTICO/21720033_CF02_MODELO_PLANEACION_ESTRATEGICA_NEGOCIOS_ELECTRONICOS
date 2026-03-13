@@ -64,7 +64,7 @@
             .col-12.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_8.png', class="img-fluid")
-
+    br
     br
     br
     .row.justify-content-center.align-items-center.mb-4

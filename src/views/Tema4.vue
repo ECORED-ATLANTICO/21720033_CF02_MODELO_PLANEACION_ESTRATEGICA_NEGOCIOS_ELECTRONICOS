@@ -48,7 +48,7 @@
             SlyderF(columnas="col-12 col-sm-6 col-md-6 col-lg-6").p-2.rounded-3
               .tarjeta--color-white.h-100
                 .tarjeta--01
-                h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3.m-3 Específicos
+                h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3.m-3.mt-0 Específicos
                 .tarjeta--slider__content.text-center Definen claramente lo que se pretende lograr. 
               .tarjeta--color-white.h-100
                 .tarjeta--02
@@ -76,12 +76,12 @@
           p <b>Nota.</b> Adaptada de Chaffey y Ellis-Chadwick (2022).
         thead
           tr
-            th.col-auto.col-lg-3 Objetivo
-            th.col-auto.col-lg-2 Específico
-            th.col-auto.col-lg-2 Medible
-            th.col-auto.col-lg-auto Alcanzable
-            th.col-auto.col-lg-auto Relevante
-            th.col-auto.col-lg-2 Temporal
+            th.col-lg-2 Objetivo
+            th.col-lg-2 Específico
+            th.col-lg-2 Medible
+            th.col-lg-2 Alcanzable
+            th.col-lg-2 Relevante
+            th.col-lg-2 Temporal
         tbody
           tr
             td.text-start Mejorar conversión en tienda <em>online</em>.

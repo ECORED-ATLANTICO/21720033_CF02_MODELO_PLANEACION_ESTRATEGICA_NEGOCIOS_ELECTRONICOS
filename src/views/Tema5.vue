@@ -101,14 +101,14 @@
           p <b>Nota.</b> Sena, (2026).
         thead
           tr
-            th.col-auto.col-lg-3 Actividad
-            th.col-auto.col-lg-3 Responsable
-            th.col-auto.col-lg-auto Mes 1
-            th.col-auto.col-lg-auto Mes 2
-            th.col-auto.col-lg-auto Mes 3
-            th.col-auto.col-lg-auto Mes 4
-            th.col-auto.col-lg-auto Mes 5
-            th.col-auto.col-lg-auto Mes 6
+            th.col-2.col-lg-2 Actividad
+            th.col-2.col-lg-2 Responsable
+            th.col-lg-auto Mes 1
+            th.col-lg-auto Mes 2
+            th.col-lg-auto Mes 3
+            th.col-lg-auto Mes 4
+            th.col-lg-auto Mes 5
+            th.col-lg-auto Mes 6
         tbody
           tr
             td.text-start Optimización SEO.
@@ -500,14 +500,14 @@
             .col-12.col-md-8.col-lg-10.p-4
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
-                  p.mb-0.fw-bold.text-white Ir a los siguientes links con la temática del diseño de un plan estratégico de <em>marketing</em> digital aplicado a negocios electrónicos, incluyendo pasos clave y buenas prácticas y aprender a identificar y aplicar indicadores clave de desempeño (KPI) para medir y evaluar estrategias en negocios electrónicos:
+                  p.mb-0.fw-bold.text-white Ir a los siguientes <em>links</em> con la temática del diseño de un plan estratégico de <em>marketing</em> digital aplicado a negocios electrónicos, incluyendo pasos clave y buenas prácticas y aprender a identificar y aplicar indicadores clave de desempeño (KPI) para medir y evaluar estrategias en negocios electrónicos:
                 .col-12.col-sm-auto.pe-4
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=sAvopikTTWE" target="_blank")
                     span Enlace
                     i.fas.fa-link.ms-2
                   br
                   br
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=EoGf5vgy1EM" target="_blank")
                     span Enlace
                     i.fas.fa-link.ms-2
 </template>

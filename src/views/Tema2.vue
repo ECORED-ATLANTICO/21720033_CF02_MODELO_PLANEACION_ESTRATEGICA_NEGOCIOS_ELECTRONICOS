@@ -227,7 +227,7 @@
             .col-12.col-md-8.col-lg-10.p-4
               .row.justify-content-between.align-items-center.g-3
                 .col-12.col-sm
-                  p.mb-0.fw-bold.text-white Ir al siguiente link para profundizar en los conceptos básicos de los negocios electrónicos y explorar las distintas categorías existentes: 
+                  p.mb-0.fw-bold.text-white Ir al siguiente <em>links</em> para profundizar en los conceptos básicos de los negocios electrónicos y explorar las distintas categorías existentes: 
                 .col-12.col-sm-auto.pe-4
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=c6Grr8r5j5g" target="_blank")
                     span Enlace
