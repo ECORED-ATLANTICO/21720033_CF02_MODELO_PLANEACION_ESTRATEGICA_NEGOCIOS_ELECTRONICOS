@@ -419,7 +419,7 @@
             td.text-start Mejora de UX.
             td.text-start Tiempo de permanencia en el sitio.
             td.text-start Google Analytics.
-            td.text-start Mensual
+            td.text-start Mensual.
           tr
             td.text-start Redes sociales.
             td.text-start Nivel de interacción.
