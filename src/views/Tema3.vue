@@ -37,7 +37,7 @@
           .row.justify-content-center.align-items-center.mb-0(titulo="")
             .col-12.col-lg-6.order-2.order-lg-1
               h5.mb-3 Atención omnicanal
-              p.mb-3 Consiste en brindar soporte en múltiples canales (chat, correo electrónico, redes sociales, teléfono) garantiza una experiencia consistente y confiable, facilitando la resolución de problemas y fortaleciendo la relación con el cliente. La atención omnicanal permite que los consumidores interactúen con la marca de la manera que les resulte más cómoda, mejorando su percepción y aumentando la probabilidad de compras futuras.
+              p.mb-3 Consiste en brindar soporte en múltiples canales (<em>chat</em>, correo electrónico, redes sociales, teléfono) garantiza una experiencia consistente y confiable, facilitando la resolución de problemas y fortaleciendo la relación con el cliente. La atención omnicanal permite que los consumidores interactúen con la marca de la manera que les resulte más cómoda, mejorando su percepción y aumentando la probabilidad de compras futuras.
               p.mb-0 #[b Ejemplo:] IKEA combina soporte vía web, <em>chat</em> en línea, redes sociales y atención telefónica, asegurando que los clientes puedan resolver dudas sobre productos, envíos y devoluciones de manera rápida y coordinada.
             .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
@@ -46,14 +46,14 @@
             .col-12.col-lg-6.order-2.order-lg-1
               h5.mb-3 Programas de fidelización
               p.mb-3 Estos programas buscan recompensar la lealtad del cliente, incentivando compras recurrentes y participación con la marca. Pueden incluir puntos acumulables, descuentos, acceso a productos exclusivos o experiencias únicas. Estos programas fortalecen la relación con el consumidor y generan un círculo virtuoso de repetición de compra y <em>engagement</em>.
-              p.mb-0 #[b Ejemplo:] Sephora, la cadena internacional de cosméticos, implementa el programa Beauty insider, donde los clientes acumulan puntos por cada compra, reciben regalos exclusivos y acceso anticipado a productos nuevos, promoviendo la fidelización y el compromiso con la marca.
+              p.mb-0 #[b Ejemplo:] Sephora, la cadena internacional de cosméticos, implementa el programa <em>Beauty insider</em>, donde los clientes acumulan puntos por cada compra, reciben regalos exclusivos y acceso anticipado a productos nuevos, promoviendo la fidelización y el compromiso con la marca.
             .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema3/img_6.png', class="img-fluid")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
             .col-12.col-lg-6.order-2.order-lg-1
               h5.mb-3 Contenido educativo
-              p.mb-3 Ofrecer contenido educativo relacionado con los productos o servicios de la empresa posiciona la marca como referente de conocimiento y mejora la relación con los clientes. Este contenido puede incluir guías, tutoriales, webinars, blogs y cursos, fomentando <em>engagement</em>, confianza y uso adecuado de los productos.
+              p.mb-3 Ofrecer contenido educativo relacionado con los productos o servicios de la empresa posiciona la marca como referente de conocimiento y mejora la relación con los clientes. Este contenido puede incluir guías, tutoriales, <em>webinars</em>, blogs y cursos, fomentando <em>engagement</em>, confianza y uso adecuado de los productos.
               p.mb-0 #[b Ejemplo:] Coursera, plataforma de educación en línea, proporciona cursos gratuitos y certificados en colaboración con universidades y empresas, fortaleciendo su reputación como líder en aprendizaje digital y promoviendo la interacción continua de los usuarios con la plataforma.
             .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure

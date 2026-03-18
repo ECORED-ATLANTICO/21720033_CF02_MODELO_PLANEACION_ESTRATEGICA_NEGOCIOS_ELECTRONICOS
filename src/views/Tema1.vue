@@ -60,7 +60,7 @@
             .col-12.col-lg-6.order-2.order-lg-1
               h5.mb-3 <em>Business to government</em> (B2G)
               p.mb-3 Consiste en que empresas privadas vendan productos o servicios al sector público, cumpliendo regulaciones, licitaciones y estándares de calidad. La transparencia y la trazabilidad son esenciales para mantener contratos y relaciones con entidades gubernamentales.
-              p.mb-0 #[b Ejemplo:] SAP suministra software ERP y soluciones de gestión a gobiernos y organismos públicos, optimizando procesos administrativos y asegurando cumplimiento normativo.
+              p.mb-0 #[b Ejemplo:] SAP suministra <em>software</em> ERP y soluciones de gestión a gobiernos y organismos públicos, optimizando procesos administrativos y asegurando cumplimiento normativo.
             .col-12.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_8.png', class="img-fluid")

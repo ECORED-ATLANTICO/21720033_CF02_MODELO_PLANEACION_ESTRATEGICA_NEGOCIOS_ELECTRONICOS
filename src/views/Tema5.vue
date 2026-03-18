@@ -52,16 +52,16 @@
           tbody
             tr
               td.text-start <em>Marketing</em> digital (campañas pagadas, publicidad y <em>social ads</em>).
-              td.text-start $50.000.000
+              td.text-start $50.000.000.
             tr
               td.text-start Desarrollo y optimización web / app.
-              td.text-start $20.000.000
+              td.text-start $20.000.000.
             tr
               td.text-start Logística digital (entregas, envíos y gestión de pedidos).
-              td.text-start $30.000.000
+              td.text-start $30.000.000.
             tr
               td.text-start Atención al cliente digital (soporte, <em>chatbots</em> y CRM).
-              td.text-start $15.000.000
+              td.text-start $15.000.000.
       
     .cita-decorada.mb-3
       blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4

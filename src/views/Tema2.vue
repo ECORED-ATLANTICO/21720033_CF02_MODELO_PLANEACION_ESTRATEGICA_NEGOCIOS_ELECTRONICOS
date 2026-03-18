@@ -188,7 +188,7 @@
                   img.img-fluid(src='@/assets/curso/tema2/img_24.svg')
               .col
                 h5 Soporte omnicanal
-                p Atención constante a través de múltiples canales, como chat, correo electrónico, teléfono y redes sociales.
+                p Atención constante a través de múltiples canales, como <em>chat</em>, correo electrónico, teléfono y redes sociales.
     
       .row.justify-content-center.align-items-center.mb-5
         .col-10.col-lg-3.mb-3.mb-lg-0(data-aos="zoom-in-right")
