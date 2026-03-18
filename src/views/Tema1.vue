@@ -23,7 +23,7 @@
     .bg_img_1.mb-3
 
       .tarjeta.tarjeta--gris.p-4
-        PasosB.color-acento-botones(data-aos="zoom-in-right")
+        PasosB.pasos-b--letras.color-acento-botones(data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
             .col-12.col-lg-6.order-2.order-lg-1
               h5.mb-3 <em>Business to business</em> (B2B)
