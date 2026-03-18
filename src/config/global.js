@@ -47,7 +47,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Diseño de estrategias e-commerce',
+        titulo: 'Diseño de estrategias <em>e-commerce</em>',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -211,7 +211,7 @@ export default {
     },
 
     {
-      termino: 'E-commerce',
+      termino: '<em>E-commerce</em>',
       significado:
         'Modalidad de negocio electrónico orientada a la compra y venta de productos o servicios a través de plataformas digitales.',
     },

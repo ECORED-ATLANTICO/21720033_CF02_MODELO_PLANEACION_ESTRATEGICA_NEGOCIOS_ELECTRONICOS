@@ -36,7 +36,7 @@
             .col-12.col-lg-6.order-2.order-lg-1
               h5.mb-3 <em>Business to consumer</em> (B2C)
               p.mb-3 Se basa en que las empresas venden directamente a los consumidores finales. El enfoque principal es la experiencia de compra, la facilidad de navegación y la satisfacción del cliente, promoviendo la fidelización a través de plataformas digitales confiables.
-              p.mb-0 #[b Ejemplo:] Amazon, combina recomendaciones personalizadas, envío rápido y una interfaz intuitiva para mantener la lealtad de los usuarios
+              p.mb-0 #[b Ejemplo:] Amazon, combina recomendaciones personalizadas, envío rápido y una interfaz intuitiva para mantener la lealtad de los usuarios.
             .col-12.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema1/img_5.png', class="img-fluid")

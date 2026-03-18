@@ -13,7 +13,7 @@
           figure.p-0.m-0.h-100
             img(src="@/assets/curso/tema2/img_1.png" class="img-fluid w-100 h-100 object-fit-cover").p-0
         .col-12.col-lg-7.p-5
-          p.mb-0 El diseño de estrategias de comercio electrónico constituye un elemento central para las empresas que buscan consolidar su presencia digital. No se trata únicamente de vender productos o servicios en línea, sino de establecer un sistema integral que atraiga nuevos clientes, transforme visitantes en compradores y fortalezca la fidelidad de quienes ya interactúan con la marca. Para lograrlo, las organizaciones deben analizar el comportamiento de los consumidores en entornos digitales, estudiar a la competencia y evaluar la capacidad tecnológica interna para implementar soluciones efectivas y escalables. La planificación estratégica en e-commerce también requiere la integración de <em>marketing</em> digital, experiencia de usuario, logística y comunicación omnicanal, garantizando que cada punto de contacto genere valor para el cliente. A continuación, se muestran estrategias esenciales en el campo del comercio electrónico.
+          p.mb-0 El diseño de estrategias de comercio electrónico constituye un elemento central para las empresas que buscan consolidar su presencia digital. No se trata únicamente de vender productos o servicios en línea, sino de establecer un sistema integral que atraiga nuevos clientes, transforme visitantes en compradores y fortalezca la fidelidad de quienes ya interactúan con la marca. Para lograrlo, las organizaciones deben analizar el comportamiento de los consumidores en entornos digitales, estudiar a la competencia y evaluar la capacidad tecnológica interna para implementar soluciones efectivas y escalables. La planificación estratégica en <em>e-commerce</em> también requiere la integración de <em>marketing</em> digital, experiencia de usuario, logística y comunicación omnicanal, garantizando que cada punto de contacto genere valor para el cliente. A continuación, se muestran estrategias esenciales en el campo del comercio electrónico.
 
     .bg_img_3.mb-3
 
@@ -28,12 +28,12 @@
           figure
             img(src='@/assets/curso/tema2/img_4.png', class="img-fluid") 
         .col-12.col-lg-8
-          p.mb-3(data-aos="zoom-in-right") consiste en identificar y clasificar a los clientes en grupos homogéneos según características demográficas, geográficas, psicográficas y de comportamiento. Esta práctica permite a la empresa adaptar su oferta y mensajes comerciales a las necesidades específicas de cada grupo, aumentando la efectividad de las campañas y optimizando la inversión en <em>marketing</em>. Además, la segmentación facilita la creación de experiencias personalizadas y la priorización de recursos, enfocando esfuerzos en los segmentos con mayor potencial de conversión y fidelización.
+          p.mb-3(data-aos="zoom-in-right") Consiste en identificar y clasificar a los clientes en grupos homogéneos según características demográficas, geográficas, psicográficas y de comportamiento. Esta práctica permite a la empresa adaptar su oferta y mensajes comerciales a las necesidades específicas de cada grupo, aumentando la efectividad de las campañas y optimizando la inversión en <em>marketing</em>. Además, la segmentación facilita la creación de experiencias personalizadas y la priorización de recursos, enfocando esfuerzos en los segmentos con mayor potencial de conversión y fidelización.
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.p-4
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-9
-                  p.cita-decorada__texto.mb-2.p-3 Spotify segmenta a sus usuarios teniendo en cuenta la edad, gustos musicales, hábitos de escucha y tipo de suscripción (gratuita o premium). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar playlists adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción premium y el <em>engagement</em> de los usuarios.
+                  p.cita-decorada__texto.mb-2.p-3 Spotify segmenta a sus usuarios teniendo en cuenta la edad, gustos musicales, hábitos de escucha y tipo de suscripción (gratuita o <em>premium</em>). Gracias a esta segmentación, la plataforma puede enviar recomendaciones personalizadas, generar <em>playlists</em> adaptadas a cada perfil y ofrecer promociones específicas que fomenten la suscripción <em>premium</em> y el <em>engagement</em> de los usuarios.
                 .col-3.col-lg-3.d-none.d-lg-block 
                   figure
                     img(src='@/assets/curso/tema2/img_6.png', class="cita-decorada__imagen-flotante-3")
@@ -65,7 +65,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img_11.png', class="cita-decorada__imagen-flotante-4")
                 .col-12.col-lg-10
-                  p.cita-decorada__texto.mb-2.p-3 se refiere a cómo perciben los clientes la interacción con un sitio <em>web</em> o aplicación móvil. Una UX bien diseñada garantiza que la navegación sea fluida, que la información sea accesible y que el proceso de compra sea intuitivo. La UX impacta directamente en la percepción de la marca, la confianza del consumidor y la probabilidad de completar transacciones, por lo que su optimización es crucial en cualquier estrategia de comercio electrónico.
+                  p.cita-decorada__texto.mb-2.p-3 Se refiere a cómo perciben los clientes la interacción con un sitio web o aplicación móvil. Una UX bien diseñada garantiza que la navegación sea fluida, que la información sea accesible y que el proceso de compra sea intuitivo. La UX impacta directamente en la percepción de la marca, la confianza del consumidor y la probabilidad de completar transacciones, por lo que su optimización es crucial en cualquier estrategia de comercio electrónico.
           .row.justify-content-center.align-items-center.mb-4
             .col-lg-1.d-lg-block.d-none(data-aos="zoom-in-right")
               figure
@@ -94,7 +94,7 @@
         .subtitulo-destacado__fondo
           h4.subtitulo-destacado__texto Las estrategias de adquisición de clientes 
       
-      p.mb-5(data-aos="zoom-in-right") se centran en atraer visitantes al sitio <em>web</em> o plataforma digital y convertirlos en clientes potenciales. Entre las tácticas más efectivas se encuentran:
+      p.mb-5(data-aos="zoom-in-right") Se centran en atraer visitantes al sitio web o plataforma digital y convertirlos en clientes potenciales. Entre las tácticas más efectivas se encuentran:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1
@@ -105,15 +105,15 @@
                   figure.mb-0
                     img(src='@/assets/curso/tema2/img_15.png', class="img-fluid")
                 .tarjeta-img-texto__footer.color-primario-o
-                  h5.fw-bold SEO Search engine optimization
+                  h5.fw-bold SEO <em>Search engine optimization</em>
                 .tarjeta-img-texto__descripcion
-                  p.mb-3 Optimización del contenido y estructura <em>web</em> para mejorar el posicionamiento en motores de búsqueda.
+                  p.mb-3 Optimización del contenido y estructura web para mejorar el posicionamiento en motores de búsqueda.
               .tarjeta-img-texto
                 .tarjeta-img-texto__imagen.mb-3
                   figure.mb-0
                     img(src='@/assets/curso/tema2/img_16.png', class="img-fluid")
                 .tarjeta-img-texto__footer.color-primario-o
-                  h5.fw-bold SEM Search engine <em>marketing</em>
+                  h5.fw-bold SEM <em>Search engine marketing</em>
                 .tarjeta-img-texto__descripcion
                   p.mb-3 Publicidad pagada en buscadores para aumentar visibilidad y tráfico.
               .tarjeta-img-texto
@@ -137,7 +137,7 @@
             img(src='@/assets/curso/tema2/img_19.png', class="img-fluid")
                   
       .tarjeta.color-primario-v.p-5.rounded-3.mb-5(data-aos="zoom-in-right")
-        p.mb-0 Zalando aplica SEO avanzado, anuncios segmentados en Instagram y Facebook, y <em>marketing</em> de contenidos enfocado en moda y tendencias. Esto les permite incrementar visitas, generar leads y aumentar las ventas <em>online</em>.
+        p.mb-0 Zalando aplica SEO avanzado, anuncios segmentados en Instagram y Facebook, y <em>marketing</em> de contenidos enfocado en moda y tendencias. Esto les permite incrementar visitas, generar <em>leads</em> y aumentar las ventas <em>online</em>.
         
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-lg-8

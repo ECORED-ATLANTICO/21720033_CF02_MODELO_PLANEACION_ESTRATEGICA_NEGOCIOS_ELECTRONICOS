@@ -51,17 +51,17 @@
               th.col-auto.col-lg-auto Gasto estimado
           tbody
             tr
-              td.text-start <em>Marketing</em> digital (campañas pagadas, publicidad y social ads).
-              td.text-start $ 50.000.000
+              td.text-start <em>Marketing</em> digital (campañas pagadas, publicidad y <em>social ads</em>).
+              td.text-start $50.000.000
             tr
-              td.text-start Desarrollo y optimización <em>web/app</em>.
-              td.text-start $ 20.000.000
+              td.text-start Desarrollo y optimización web / app.
+              td.text-start $20.000.000
             tr
               td.text-start Logística digital (entregas, envíos y gestión de pedidos).
-              td.text-start $ 30.000.000
+              td.text-start $30.000.000
             tr
               td.text-start Atención al cliente digital (soporte, <em>chatbots</em> y CRM).
-              td.text-start $ 15.000.000
+              td.text-start $15.000.000
       
     .cita-decorada.mb-3
       blockquote.cita-decorada__caja.cita-decorada__caja--fondo-2.p-4
@@ -120,7 +120,7 @@
             td.bg-table-01
             td.bg-table-01
           tr
-            td.text-start Email <em>marketing</em>.
+            td.text-start <em>Email marketing</em>.
             td.text-start Coordinador de <em>marketing</em>.
             td
             td.bg-table-02
@@ -129,7 +129,7 @@
             td
             td.bg-table-02
           tr
-            td.text-start Mejora UX del sitio <em>web</em>.
+            td.text-start Mejora UX del sitio web.
             td.text-start Diseñador UX/UI.
             td.bg-table-03
             td.bg-table-03
@@ -200,7 +200,7 @@
         tbody
           tr
             td.text-start Conversión.
-            td.text-start Evaluar la efectividad en transformar visitantes en clientes o leads.
+            td.text-start Evaluar la efectividad en transformar visitantes en clientes o <em>leads</em>.
             td.text-start Porcentaje de finalización de compra, registros en formularios.
             td.text-start Permite medir el éxito de las campañas y procesos de venta.
           tr
@@ -209,12 +209,12 @@
             td.text-start Porcentaje de clientes recurrentes, tasa de abandono.
             td.text-start Ayuda a identificar oportunidades para reforzar la lealtad.
           tr
-            td.text-start <em>Engagement</em>
+            td.text-start <em>Engagement.</em>
             td.text-start Medir el nivel de interacción y compromiso con la marca.
             td.text-start Comentarios, compartidos, tiempo promedio en página.
             td.text-start Indica relevancia del contenido y conexión con la audiencia.
           tr
-            td.text-start Tráfico <em>web</em>.
+            td.text-start Tráfico web.
             td.text-start Analizar la cantidad y calidad de visitantes.
             td.text-start Visitantes únicos, fuentes de tráfico, páginas más visitadas.
             td.text-start Evalúa el alcance y la eficacia de estrategias digitales.
@@ -242,19 +242,19 @@
 
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-8.order-2.order-lg-1
-          p.mb-3(data-aos="zoom-in-right") Las herramientas digitales en <em>marketing</em> son recursos esenciales que permiten a las empresas implementar, supervisar y evaluar sus estrategias de <em>marketing</em> online de manera eficiente. Estas plataformas facilitan la automatización de procesos, la recopilación y análisis de datos, y la toma de decisiones basadas en información objetiva. Al integrar herramientas adecuadas en la estrategia digital, las organizaciones pueden mejorar la efectividad de sus campañas, optimizar recursos, identificar oportunidades de mejora y generar reportes precisos que apoyen la gestión estratégica del <em>marketing</em>.
+          p.mb-3(data-aos="zoom-in-right") Las herramientas digitales en <em>marketing</em> son recursos esenciales que permiten a las empresas implementar, supervisar y evaluar sus estrategias de <em>marketing online</em> de manera eficiente. Estas plataformas facilitan la automatización de procesos, la recopilación y análisis de datos, y la toma de decisiones basadas en información objetiva. Al integrar herramientas adecuadas en la estrategia digital, las organizaciones pueden mejorar la efectividad de sus campañas, optimizar recursos, identificar oportunidades de mejora y generar reportes precisos que apoyen la gestión estratégica del <em>marketing</em>.
           .tarjeta.color-secundario-cv.p-3.rounded-3.mb-3(data-aos="zoom-in-right")
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-2.d-lg-block.d-none(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema5/img_14.svg', class="img-fluid p-3")
               .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-                p.mb-0 La selección de herramientas debe considerar la funcionalidad específica que aporta a cada etapa del proceso digital, desde la captación de tráfico y generación de leads, hasta la fidelización de clientes y el análisis del rendimiento de campañas. Contar con un ecosistema digital integrado garantiza que todas las acciones estén alineadas con los objetivos de la empresa y que los resultados sean medibles y escalables.
+                p.mb-0 La selección de herramientas debe considerar la funcionalidad específica que aporta a cada etapa del proceso digital, desde la captación de tráfico y generación de <em>leads</em>, hasta la fidelización de clientes y el análisis del rendimiento de campañas. Contar con un ecosistema digital integrado garantiza que todas las acciones estén alineadas con los objetivos de la empresa y que los resultados sean medibles y escalables.
         .col-10.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema5/img_15.png', class="img-fluid") 
 
-      p.mb-3(data-aos="zoom-in-right") A continuación se muestran las diferentes  herramientas digitales claves utilizadas en <em>marketing</em> digital, destacando su función principal y su aporte a la gestión, análisis y optimización de las estrategias digitales.
+      p.mb-3(data-aos="zoom-in-right") A continuación, se muestran las diferentes  herramientas digitales claves utilizadas en <em>marketing</em> digital, destacando su función principal y su aporte a la gestión, análisis y optimización de las estrategias digitales.
 
       .row.justify-content-center.align-items-center.mb-5
         .col-md-8.col-lg-4.mb-lg-0.mb-3(data-aos="flip-left")
@@ -269,7 +269,7 @@
                     img(src='@/assets/curso/tema5/img_17.svg', class="img-fluid" style="max-height: 75px; object-fit: contain;")
                 .p-4
                   h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Google Analytics
-                  p.mb-0 Monitoreo de tráfico <em>web</em>, comportamiento de usuarios y conversiones.
+                  p.mb-0 Monitoreo de tráfico web, comportamiento de usuarios y conversiones.
               .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
                 .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
                   figure.mb-0
@@ -289,7 +289,7 @@
                   figure.mb-0
                     img(src='@/assets/curso/tema5/img_20.svg', class="img-fluid mt-1" style="max-height: 75px; object-fit: contain;")
                 .p-4
-                  h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Wix e-commerce
+                  h6.text-white.text-center.bg-color-primario-o.text-center.fw-bold.p-3 Wix <em>e-commerce</em>
                   p.mb-0 Plataforma integral para la creación y gestión de tiendas virtuales.
               .tarjeta.color-primario-cv.w-100.d-flex.flex-column.p-0.overflow-hidden
                 .d-flex.justify-content-center.align-items-center.p-4.tarjeta--fondo-con--colo-blanco.mb-3
@@ -313,7 +313,7 @@
             figure
               img(src='@/assets/curso/tema5/img_23.png', class="cita-decorada__imagen-flotante-6")
           .col-12.col-lg-10
-            p.cita-decorada__texto.mb-2.p-3 La correcta selección e implementación de herramientas digitales no solo facilita la ejecución de estrategias, sino que también permite automatizar tareas repetitivas, centralizar la información y generar insights valiosos para optimizar decisiones. Al contar con un conjunto de herramientas integradas, las empresas pueden medir el rendimiento en tiempo real, ajustar campañas rápidamente y maximizar el retorno de inversión en <em>marketing</em> digital, fortaleciendo la competitividad y la capacidad de respuesta en entornos digitales, pues son altamente cambiantes.
+            p.cita-decorada__texto.mb-2.p-3 La correcta selección e implementación de herramientas digitales no solo facilita la ejecución de estrategias, sino que también permite automatizar tareas repetitivas, centralizar la información y generar <em>insights</em> valiosos para optimizar decisiones. Al contar con un conjunto de herramientas integradas, las empresas pueden medir el rendimiento en tiempo real, ajustar campañas rápidamente y maximizar el retorno de inversión en <em>marketing</em> digital, fortaleciendo la competitividad y la capacidad de respuesta en entornos digitales, pues son altamente cambiantes.
 
     Separador
   
@@ -353,7 +353,7 @@
                   img(src='@/assets/curso/tema5/img_29.svg', class="img-fluid")
             .row.justify-content-center.align-items-center.mb-0(titulo="Control de campañas")
               .col-12.col-lg-9.order-2.order-lg-1
-                p.mb-0 Análisis del desempeño de campañas frente a los objetivos establecidos
+                p.mb-0 Análisis del desempeño de campañas frente a los objetivos establecidos.
                 p.mb-0 #[b Frecuencia:] quincenal.
                 p.mb-0 #[b Responsable:] analista de <em>marketing</em> digital.
               .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
@@ -367,16 +367,16 @@
               .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema5/img_31.svg', class="img-fluid")
-            .row.justify-content-center.align-items-center.mb-0(titulo="procesos")
+            .row.justify-content-center.align-items-center.mb-0(titulo="Control de plataformas")
               .col-12.col-lg-9.order-2.order-lg-1
                 p.mb-0 Supervisión del correcto funcionamiento de canales y herramientas digitales.
-                p.mb-0 #[b Frecuencia:] permanente
+                p.mb-0 #[b Frecuencia:] permanente.
                 p.mb-0 #[b Responsable:] equipo técnico.
               .col-lg-2.d-lg-block.d-none.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
                 figure
                   img(src='@/assets/curso/tema5/img_32.svg', class="img-fluid")
            
-      p.mb-5(data-aos="zoom-in-right") El control sistemático permite identificar desviaciones de manera oportuna, aplicar acciones correctivas y garantizar que la estrategia digital se mantenga enfocada en el logro de resultados medibles
+      p.mb-5(data-aos="zoom-in-right") El control sistemático permite identificar desviaciones de manera oportuna, aplicar acciones correctivas y garantizar que la estrategia digital se mantenga enfocada en el logro de resultados medibles.
 
     Separador
   
@@ -389,7 +389,7 @@
         figure
           img(src='@/assets/curso/tema5/img_33.svg', class="img-fluid p-3")
       .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
-        p.mb-0 El seguimiento consiste en el monitoreo continuo del avance de las acciones digitales, facilitando el análisis del desempeño, la detección de tendencias y la toma de decisiones basada en datos reales. Un seguimiento constante permite ajustar las tácticas digitales en tiempo real, optimizar el rendimiento de las campañas y fortalecer la eficiencia operativa del plan de acción. En la siguiente se muestra seguimiento dirigido a las acciones antes mencionadas.
+        p.mb-0 El seguimiento consiste en el monitoreo continuo del avance de las acciones digitales, facilitando el análisis del desempeño, la detección de tendencias y la toma de decisiones basada en datos reales. Un seguimiento constante permite ajustar las tácticas digitales en tiempo real, optimizar el rendimiento de las campañas y fortalecer la eficiencia operativa del plan de acción. En la siguiente tabla se muestra seguimiento dirigido a las acciones antes mencionadas.
 
     .titulo-sexto.color-primario(data-aos="zoom-in-right")
       h5 Tabla 6.
@@ -409,12 +409,12 @@
             td.text-start Optimización SEO.
             td.text-start Tráfico orgánico.
             td.text-start Google Analytics.
-            td.text-start Mensual
+            td.text-start Mensual.
           tr
-            td.text-start Email <em>marketing</em>.
+            td.text-start <em>Email marketing</em>.
             td.text-start Tasa de apertura y clics.
             td.text-start HubSpot.
-            td.text-start Quincena.
+            td.text-start Quincenal.
           tr
             td.text-start Mejora de UX.
             td.text-start Tiempo de permanencia en el sitio.
@@ -485,7 +485,7 @@
             .col-12.col-md-12.col-lg-7.col-xl-7.mb-lg-0
               h2.mb-2 Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
-                texto="<h5 class='mb-0'>Charlas que venden</h5> Plan estratégico de <em>marketing</em> digital"
+                texto="<h5 class='mb-0'>Charlas que venden</h5> Plan de acción y gestión en <em>marketin</em> digital"
                 :audio="require('@/assets/curso/tema4/img_13.svg')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

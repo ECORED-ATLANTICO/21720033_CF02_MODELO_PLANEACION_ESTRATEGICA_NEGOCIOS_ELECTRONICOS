@@ -17,7 +17,7 @@
     .bg_img_1.mb-3
 
       .tarjeta.tarjeta--gris.p-4.mb-5
-        PasosB.color-acento-botones(data-aos="zoom-in-right")
+        PasosB.pasos-b--letras.color-acento-botones(tipo="a",data-aos="zoom-in-right")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
             .col-12.col-lg-6.order-2.order-lg-1
               h5.mb-3 Personalización
@@ -36,9 +36,9 @@
                 img(src='@/assets/curso/tema3/img_4.png', class="img-fluid")
           .row.justify-content-center.align-items-center.mb-0(titulo="")
             .col-12.col-lg-6.order-2.order-lg-1
-              h5.mb-3 Atención omnicanal:
+              h5.mb-3 Atención omnicanal
               p.mb-3 Consiste en brindar soporte en múltiples canales (chat, correo electrónico, redes sociales, teléfono) garantiza una experiencia consistente y confiable, facilitando la resolución de problemas y fortaleciendo la relación con el cliente. La atención omnicanal permite que los consumidores interactúen con la marca de la manera que les resulte más cómoda, mejorando su percepción y aumentando la probabilidad de compras futuras.
-              p.mb-0 #[b Ejemplo:] IKEA combina soporte vía <em>web</em>, chat en línea, redes sociales y atención telefónica, asegurando que los clientes puedan resolver dudas sobre productos, envíos y devoluciones de manera rápida y coordinada.
+              p.mb-0 #[b Ejemplo:] IKEA combina soporte vía web, <em>chat</em> en línea, redes sociales y atención telefónica, asegurando que los clientes puedan resolver dudas sobre productos, envíos y devoluciones de manera rápida y coordinada.
             .col-md-8.col-lg-6.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
               figure
                 img(src='@/assets/curso/tema3/img_5.png', class="img-fluid")

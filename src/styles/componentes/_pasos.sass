@@ -305,3 +305,26 @@
 
   .indicador__container
     transform: translateY(15px)
+
+.pasos-b--letras
+  counter-reset: pasos-b-letras
+
+  .pasos-b__header__item__dot
+    position: relative
+
+    span
+      display: none // ocultamos el contenido original
+
+    &::after
+      counter-increment: pasos-b-letras
+      content: counter(pasos-b-letras, upper-alpha)
+      position: absolute
+      top: 50%
+      left: 50%
+      transform: translate(-50%, -50%)
+      font-weight: bold
+      font-size: 16px
+
+
+.pasos-b--letras .pasos-b__header__item__dot i
+  display: none !important

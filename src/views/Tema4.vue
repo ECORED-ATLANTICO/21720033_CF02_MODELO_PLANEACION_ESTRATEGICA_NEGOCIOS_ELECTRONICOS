@@ -85,7 +85,7 @@
         tbody
           tr
             td.text-start Mejorar conversión en tienda <em>online</em>.
-            td.text-start Incrementar ventas B2C mediante la página <em>web</em>.
+            td.text-start Incrementar ventas B2C mediante la página web.
             td.text-start Incremento del 15 % en conversiones.
             td Sí
             td Sí
@@ -99,8 +99,8 @@
             td 6 meses.
           tr
             td.text-start Aumentar tráfico orgánico.
-            td.text-start Mejorar posicionamiento SEO del blog.
-            td.text-start 30,000 visitas mensuales.
+            td.text-start Mejorar posicionamiento SEO del <em>blog</em>.
+            td.text-start 30.000 visitas mensuales.
             td Sí
             td Sí
             td 12 meses.
