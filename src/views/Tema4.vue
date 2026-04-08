@@ -126,7 +126,7 @@
               h2.mb-2 Pódcast
               TarjetaAudio.color-acento-botones.mb-0.p-4(
                 texto="<h5 class='mb-0'>Charlas que venden</h5> Plan estratégico de <em>marketing</em> digital"
-                :audio="require('@/assets/curso/tema4/img_13.svg')"
+                :audio="require('@/assets/curso/podcast/podcast1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = True")
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 </template>

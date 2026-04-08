@@ -30,10 +30,10 @@
       .col-12.col-lg-11.mb-0(data-aos="zoom-in-right")
         p.mb-0 Durante el desarrollo del componente, el aprendiz adquirirá herramientas para estructurar un plan estratégico y un plan de acción que integre presupuesto, cronograma, indicadores, herramientas, control, seguimiento y evaluación. Estos elementos permitirán fortalecer la gestión de proyectos de negocio electrónico, garantizando coherencia entre la estrategia digital, los objetivos organizacionales y las decisiones comerciales.
     
-    figure.mb-5
-      .video.mb-2
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Aplicación de la estrategia en negocios electrónicos
+    //figure.mb-5
+    //  .video.mb-2
+    //    iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //  figcaption Video: Aplicación de la estrategia en negocios electrónicos
 
 </template>
 
