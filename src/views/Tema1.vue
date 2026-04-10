@@ -104,7 +104,7 @@
             tr
               td.text-start C2B.
               td.text-start Consumidor aporta servicios o contenido a la empresa.
-              td.text-start Shutterstock
+              td.text-start Shutterstock.
             tr
               td.text-start B2G.
               td.text-start Empresa provee bienes o servicios al gobierno.

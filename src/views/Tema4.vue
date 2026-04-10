@@ -34,7 +34,7 @@
                 .col-12.col-lg-10
                   p.cita-decorada__texto.mb-2.p-3 Wix tiene como misión digital: empoderar a las personas y empresas para crear su presencia digital de manera sencilla y efectiva. Como visión digital busca: ser la plataforma líder que permita a cualquier usuario construir un negocio digital completo sin necesidad de conocimientos técnicos avanzados.
           p.mb-3(data-aos="zoom-in-right") Contar con misión y visión claras en <em>marketing</em> digital permite alinear todos los esfuerzos, garantizando coherencia estratégica y una identidad digital sólida que fortalezca la relación con los clientes.
-          p.mb-0(data-aos="zoom-in-right") Los objetivos en <em>marketing</em> digital deben ser SMART, asegurando que sean:
+          p.mb-0(data-aos="zoom-in-right") Los objetivos en <em>marketing</em> digital deben ser <em>SMART</em>, asegurando que sean:
         .col-8.col-lg-4.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="zoom-in-right")
           figure
             img(src='@/assets/curso/tema4/img_6.png', class="img-fluid") 
@@ -113,7 +113,7 @@
               figure
                 img(src='@/assets/curso/tema4/img_13.svg', class="img-fluid p-3")
             .col-12.col-lg-10.mb-0(data-aos="zoom-in-right")
-              p.mb-0 Definir objetivos SMART permite monitorear avances, identificar desviaciones y tomar decisiones correctivas, asegurando que la estrategia digital genere resultados tangibles.
+              p.mb-0 Definir objetivos <em>SMART</em> permite monitorear avances, identificar desviaciones y tomar decisiones correctivas, asegurando que la estrategia digital genere resultados tangibles.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-7

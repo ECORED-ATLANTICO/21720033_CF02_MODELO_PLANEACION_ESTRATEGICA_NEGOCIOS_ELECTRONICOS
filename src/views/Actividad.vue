@@ -23,7 +23,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión y lineamientos para la Aplicación de la estrategia en negocios electrónicos.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
@@ -125,7 +125,7 @@ export default {
         {
           id: 7,
           texto:
-            'Definir una misión digital clara ayuda a orientar las decisiones y acciones en entornos .',
+            'Definir una misión digital clara ayuda a orientar las decisiones y acciones en entornos <em>online</em>.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
